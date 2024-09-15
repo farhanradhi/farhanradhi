@@ -1,6 +1,6 @@
 # HALLO
-Nama Saya Farhan Radhi Zuhri
-Saya Seorang Mahasiswa di UNSRI
+Nama Saya Farhan Radhi Zuhri <br>
+Saya Seorang Mahasiswa di UNSRI <br>
 Saya Tertarik pada bidang programming
 
 <!---
